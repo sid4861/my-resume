@@ -26,12 +26,14 @@ const Sidebar = () => {
                     </nav>
                     <nav id="colorlib-main-menu">
                         <ul>
-                            
+                        <li><a href="https://linkedin.com/in/siddharth-lodha-693418105/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                        <li><a href="https://medium.com/codebooklets" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
                             <li><a href="https://twitter.com/codebooklets" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                             <li><a href="https://www.instagram.com/codebooklets/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                            <li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                            
                             <li><a href="https://github.com/sid4861" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                            <li><a href="https://medium.com/codebooklets" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
+                            <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
+                            
                         </ul>
                     </nav>
                  
