@@ -13,7 +13,7 @@ const About = () => {
                                         <span className="heading-meta">About Me</span>
         
                                         <p>I am a software engineer currently working in a devops role. I have always been fascinated by the ways in which technology is changing the world, and how we as software engineers can contribute in building such products. </p>
-                                        <p>Currently, I am learning full stack development and machine learning.Keeping in mind the adage that sharing knowledge is the best way to learn, I am chronicling my journey on medium and twitter. (Options to visit them is side menu). Do check these out.</p>
+                                        <p>I am also learning full stack development and machine learning.Keeping in mind the adage that sharing knowledge is the best way to learn, I am chronicling my journey on medium and twitter. (Options to visit them in side menu). Do check these out.</p>
                                     </div>
                                 </div>
                             </div>
