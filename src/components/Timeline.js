@@ -27,10 +27,10 @@ const Timeline = () => {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
+                        <i className="icon-clock" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at Sinhgad College of Engineering, Pune, India <span>2015-2019</span></h2>
+                        <h2>Undergraduation at Sinhgad College of Engineering, Pune, India <span>2013-2017</span></h2>
                         <p>I have completed my under-graduation studies with major in Computer Engineering. I have taken courses like Data Structures and Algorithms, Database management systems, Object oriented programming over the years. Object Oriented Programming is what fascinated me the most.</p>
                       </div>
                     </div>
@@ -38,7 +38,7 @@ const Timeline = () => {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
+                        <i className="icon-clock" />
                       </div>
                       <div className="timeline-label">
                         <h2>Seocndary and Senior School Education <span>2010-2013</span></h2>
