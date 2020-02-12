@@ -13,76 +13,41 @@ const Projects = () => {
                 </div>
                 <div className="row">
                     <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-                        <div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+                        <div className="project" style={{backgroundImage: 'url(images/project-1.jpg)'}}>
                             <div className="desc">
                                 <div className="con">
-                                    <h3><a href="work.html">Work 01</a></h3>
-                                    <span>Website</span>
+                                    <h3><a href="https://todolistbysid.netlify.com/">To do list</a></h3>
+                                    <span>A todo list based on Bootstrap and Javascript</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-                        <div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+                        <div className="project" style={{backgroundImage: 'url(images/project-2.jpg)'}}>
                             <div className="desc">
                                 <div className="con">
-                                    <h3><a href="work.html">Work 02</a></h3>
-                                    <span>Animation</span>
+                                    <h3><a href="https://landingpagebysid.netlify.com/">Landing Page</a></h3>
+                                    <span>A sample landing page using HTML, CSS and Bootstrap</span>
                                    
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-                        <div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+                        <div className="project" style={{backgroundImage: 'url(images/project-3.jpg)'}}>
                             <div className="desc">
                                 <div className="con">
-                                    <h3><a href="work.html">Work 03</a></h3>
-                                    <span>Illustration</span>
+                                    <h3><a href="https://dry-thicket-35252.herokuapp.com/"> A Web app using Express</a></h3>
+                                    <span>Technologies used - HTML, CSS, Bootstrap, Node JS, express,
+MongoDB Atlas</span>
                                   
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-                        <div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
-                            <div className="desc">
-                                <div className="con">
-                                    <h3><a href="work.html">Work 04</a></h3>
-                                    <span>Application</span>
-                                   
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-                        <div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
-                            <div className="desc">
-                                <div className="con">
-                                    <h3><a href="work.html">Work 05</a></h3>
-                                    <span>Graphic, Logo</span>
-                                   
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-                        <div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
-                            <div className="desc">
-                                <div className="con">
-                                    <h3><a href="work.html">Work 06</a></h3>
-                                    <span>Web Design</span>
-                                  
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
-                <div className="row">
-                    <div className="col-md-12 animate-box">
-                        <p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
-                    </div>
-                </div>
+            
             </div>
         </section>
 </div>

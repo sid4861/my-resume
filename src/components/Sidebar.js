@@ -20,7 +20,6 @@ const Sidebar = () => {
                   <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
                                 <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
                                 <li><a href="#projects" data-nav-section="projects">Projects</a></li>
-                                <li><a href="#blog" data-nav-section="blog">Blog</a></li>
                             </ul>
                         </div>
                     </nav>
