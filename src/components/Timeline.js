@@ -30,7 +30,7 @@ const Timeline = () => {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at Sinhgad College of Engineering, Pune, India<span>2015-2019</span></h2>
+                        <h2>Undergraduation at Sinhgad College of Engineering, Pune, India <span>2015-2019</span></h2>
                         <p>I have completed my under-graduation studies with major in Computer Engineering. I have taken courses like Data Structures and Algorithms, Database management systems, Object oriented programming over the years. Object Oriented Programming is what fascinated me the most.</p>
                       </div>
                     </div>
