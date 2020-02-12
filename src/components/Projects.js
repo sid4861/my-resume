@@ -38,13 +38,25 @@ const Projects = () => {
                             <div className="desc">
                                 <div className="con">
                                     <h3><a href="https://dry-thicket-35252.herokuapp.com/"> A Web app using Express</a></h3>
-                                    <span>Technologies used - HTML, CSS, Bootstrap, Node JS, express,
-MongoDB Atlas</span>
+                                    <span>Technologies used - HTML, CSS, Bootstrap, Node JS, express, MongoDB Atlas</span>
                                   
                                 </div>
                             </div>
                         </div>
                     </div>
+
+                    <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+                        <div className="project" style={{backgroundImage: 'url(images/project-4.jpg)'}}>
+                            <div className="desc">
+                                <div className="con">
+                                    <h3><a href="https://museumofcandybysid.netlify.com/"> A Landing Page</a></h3>
+                                    <span>Technologies used - HTML, CSS, Bootstrap</span>
+                                  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     
                 </div>
             
